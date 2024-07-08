@@ -1,0 +1,14 @@
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\bin\Debug\net8.0\AS-LP.exe
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\bin\Debug\net8.0\AS-LP.deps.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\bin\Debug\net8.0\AS-LP.runtimeconfig.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\bin\Debug\net8.0\AS-LP.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\bin\Debug\net8.0\AS-LP.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.AssemblyInfoInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.AssemblyInfo.cs
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.csproj.CoreCompileInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\refint\AS-LP.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\AS-LP.genruntimeconfig.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\AS-LP\AS-LP\obj\Debug\net8.0\ref\AS-LP.dll
